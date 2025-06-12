@@ -14,9 +14,6 @@ Slides are available <a href="https://www.dropbox.com/s/3e2wzl0n0ghlrxf/NewFairn
 
 </br>
 
-</br>
-
-</br>
 
 ---
 
@@ -26,10 +23,6 @@ Slides are available <a href="https://www.dropbox.com/s/3e2wzl0n0ghlrxf/NewFairn
 **Talk Title:** Towards Trustworthy AI
 
 Slides are available <a href="https://drive.google.com/file/d/1_YEL41iLDcBOYn1Ep0OilqcvAohy4tO7/view?usp=share_link"> here </a>
-
-</br>
-
-</br>
 
 </br>
 
