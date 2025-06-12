@@ -2,8 +2,9 @@
 title: Keynote Speakers
 nav: true
 ---
+<h2>Keynote Speakers</h2>
 
-#<div style="margin-bottom: 40px;">
+<div style="margin-bottom: 40px;">
   <h3><a href="https://www.cs.princeton.edu/~olgarus/">Olga Russakovsky</a></h3>
   <img src="https://www.cs.princeton.edu/~olgarus/photos/OlgaRussakovsky.JPG" alt="Olga Russakovsky" width="150" height="150" align="left" style="margin-right: 20px; margin-bottom: 10px;">
   <p><strong>Talk Title:</strong> Fairness in visual recognition: the importance of the human perspective in computer vision</p>
