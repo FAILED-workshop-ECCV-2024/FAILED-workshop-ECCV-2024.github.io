@@ -12,8 +12,6 @@ nav: true
 
 Slides are available <a href="https://www.dropbox.com/s/3e2wzl0n0ghlrxf/NewFairness_FAILEDworkshop_ECCV2024.pdf?dl=0"> here </a>
 
-</br>
-
 
 ---
 
@@ -24,6 +22,5 @@ Slides are available <a href="https://www.dropbox.com/s/3e2wzl0n0ghlrxf/NewFairn
 
 Slides are available <a href="https://drive.google.com/file/d/1_YEL41iLDcBOYn1Ep0OilqcvAohy4tO7/view?usp=share_link"> here </a>
 
-</br>
 
 ---
