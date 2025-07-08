@@ -25,4 +25,14 @@ nav: true
 
 ## Technical Committee
 
-TBD.
+Massimiliano Ciranni, University of Genoa;
+Roberto Di Via, University of Genoa;
+Michela Gravina, University of Naples Federico II;
+Carlo Alberto Barbano, University of Turin;
+Irina Voiculescu, University of Oxford;
+Junayed	Naushad, University of Oxford;
+Jung-Eun Kim, North Carolina State University;
+Marco Grangetto, University of Turin;
+Francesca Odone, University of Genoa;
+Remi Nahon, Télécom Paris Institut Polytechnique de Paris.
+
